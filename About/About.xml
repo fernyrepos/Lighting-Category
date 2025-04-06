@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Lighting Category</name>
+	<author>ferny</author>
+	<packageId>ferny.lightingcategory</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+	</supportedVersions>
+	<description>Adds a new category specifically for lighting.</description>
+	<loadAfter>
+		<li>Ludeon.Rimworld</li>
+		<li>Ludeon.Rimworld.Royalty</li>
+		<li>Ludeon.Rimworld.Ideology</li>
+		<li>Ludeon.Rimworld.Biotech</li>
+		<li>Ludeon.Rimworld.Anomaly</li>
+		<li>VanillaExpanded.VFECore</li>
+		<li>VanillaExpanded.VFESpacer</li>
+		<li>OskarPotocki.VanillaFactionsExpanded.SettlersModule</li>
+		<li>kentington.saveourship2</li>
+		<li>ferny.fuckextfurniture</li>
+		<li>oskarpotocki.vfe.empire</li>
+		<li>biomesteam.biomesfossils</li>
+		<li>ferny.progressionhospitality</li>
+		<li>com.bymarcin.architecticons</li>
+		<li>rebuild.cotr.doorsandcorners</li>
+		<li>zal.lanterns</li>
+		<li>dankpyon.medieval.overhaul</li>
+		<li>ferny.progressionaesthetics</li>
+		<li>Sov.BBrazier</li>
+		<li>van.dacrypts</li>
+		<li>sarg.alphapropsparks</li>
+		<li>dev.tobot.vpe.betterautocast</li>
+		<li>arquebus.stagzmerfolk</li>
+	</loadAfter>
+</ModMetaData>

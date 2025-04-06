@@ -1,0 +1,40 @@
+<loadFolders>
+  <v1.4>
+    <li>/</li>
+    <li IfModActive="Ludeon.Rimworld.Royalty">Mods and Shit/Royalty</li>
+    <li IfModActive="VanillaExpanded.VFECore">Mods and Shit/Furniture Expanded</li>
+    <li IfModActive="VanillaExpanded.VFESpacer">Mods and Shit/VFE Spacer</li>
+    <li IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">Mods and Shit/VFE Settlers</li>
+    <li IfModActive="kentington.saveourship2">Mods and Shit/SOS2</li>
+    <li IfModActive="oskarpotocki.vfe.empire">Mods and Shit/VFE Empire</li>
+    <li IfModActive="biomesteam.biomesfossils">Mods and Shit/Biomes Fossils</li>
+    <li IfModActive="rebuild.cotr.doorsandcorners">Mods and Shit/Rebuild DAC</li>
+    <li IfModActive="zal.lanterns">Mods and Shit/Lanterns</li>
+    <li IfModActive="dankpyon.medieval.overhaul">Mods and Shit/Medieval Overhaul</li>
+    <li IfModActive="zal.fireflies">Mods and Shit/Fireflies</li>
+    <li IfModActive="det.epochspyrinth">Mods and Shit/Epochs Pyrinth</li>
+    <li IfModActive="van.dacrypts">Mods and Shit/DA Crypts</li>
+    <li IfModActive="sarg.alphapropsparks">Mods and Shit/AP Parks</li>
+    <li IfModActive="dev.tobot.vpe.betterautocast">Mods and Shit/Better Autocasting</li>
+    <li IfModActive="arquebus.stagzmerfolk">Mods and Shit/Merren</li>
+  </v1.4>
+  <v1.5>
+    <li>/</li>
+    <li IfModActive="Ludeon.Rimworld.Royalty">Mods and Shit/Royalty</li>
+    <li IfModActive="VanillaExpanded.VFECore">Mods and Shit/Furniture Expanded</li>
+    <li IfModActive="VanillaExpanded.VFESpacer">Mods and Shit/VFE Spacer</li>
+    <li IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">Mods and Shit/VFE Settlers</li>
+    <li IfModActive="kentington.saveourship2">Mods and Shit/SOS2</li>
+    <li IfModActive="oskarpotocki.vfe.empire">Mods and Shit/VFE Empire</li>
+    <li IfModActive="biomesteam.biomesfossils">Mods and Shit/Biomes Fossils</li>
+    <li IfModActive="rebuild.cotr.doorsandcorners">Mods and Shit/Rebuild DAC</li>
+    <li IfModActive="zal.lanterns">Mods and Shit/Lanterns</li>
+    <li IfModActive="dankpyon.medieval.overhaul">Mods and Shit/Medieval Overhaul</li>
+    <li IfModActive="zal.fireflies">Mods and Shit/Fireflies</li>
+    <li IfModActive="det.epochspyrinth">Mods and Shit/Epochs Pyrinth</li>
+    <li IfModActive="van.dacrypts">Mods and Shit/DA Crypts</li>
+    <li IfModActive="sarg.alphapropsparks">Mods and Shit/AP Parks</li>
+    <li IfModActive="dev.tobot.vpe.betterautocast">Mods and Shit/Better Autocasting</li>
+    <li IfModActive="arquebus.stagzmerfolk">Mods and Shit/Merren</li>
+  </v1.5>
+</loadFolders>

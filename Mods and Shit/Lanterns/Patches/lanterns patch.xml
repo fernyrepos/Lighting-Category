@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <!-- ErokLanternWhite -->
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="ErokLanternWhite"]/designationCategory</xpath>
+    <value>
+      <designationCategory>Ferny_Lighting</designationCategory>
+    </value>
+  </Operation>
+
+  <!-- ErokLanternRed -->
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="ErokLanternRed"]/designationCategory</xpath>
+    <value>
+      <designationCategory>Ferny_Lighting</designationCategory>
+    </value>
+  </Operation>
+
+  <!-- ErokLanternYellow -->
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="ErokLanternYellow"]/designationCategory</xpath>
+    <value>
+      <designationCategory>Ferny_Lighting</designationCategory>
+    </value>
+  </Operation>
+
+  <!-- ErokLanternMixed -->
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="ErokLanternMixed"]/designationCategory</xpath>
+    <value>
+      <designationCategory>Ferny_Lighting</designationCategory>
+    </value>
+  </Operation>
+
+  <!-- ErokLanternWhiteE -->
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="ErokLanternWhiteE"]/designationCategory</xpath>
+    <value>
+      <designationCategory>Ferny_Lighting</designationCategory>
+    </value>
+  </Operation>
+
+  <!-- ErokLanternRedE -->
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="ErokLanternRedE"]/designationCategory</xpath>
+    <value>
+      <designationCategory>Ferny_Lighting</designationCategory>
+    </value>
+  </Operation>
+
+  <!-- ErokLanternYellowE -->
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="ErokLanternYellowE"]/designationCategory</xpath>
+    <value>
+      <designationCategory>Ferny_Lighting</designationCategory>
+    </value>
+  </Operation>
+
+  <!-- ErokLanternMixede -->
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="ErokLanternMixede"]/designationCategory</xpath>
+    <value>
+      <designationCategory>Ferny_Lighting</designationCategory>
+    </value>
+  </Operation>
+
+  <!-- ErokLanternMixedR -->
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="ErokLanternMixedR"]/designationCategory</xpath>
+    <value>
+      <designationCategory>Ferny_Lighting</designationCategory>
+    </value>
+  </Operation>
+
+  <!-- ErokLanternMixedRE -->
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="ErokLanternMixedRE"]/designationCategory</xpath>
+    <value>
+      <designationCategory>Ferny_Lighting</designationCategory>
+    </value>
+  </Operation>
+
+  <!-- ErokLanternWhiteS -->
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="ErokLanternWhiteS"]/designationCategory</xpath>
+    <value>
+      <designationCategory>Ferny_Lighting</designationCategory>
+    </value>
+  </Operation>
+
+  <!-- ErokLanternRedS -->
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="ErokLanternRedS"]/designationCategory</xpath>
+    <value>
+      <designationCategory>Ferny_Lighting</designationCategory>
+    </value>
+  </Operation>
+
+  <!-- ErokLanternYellowS -->
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="ErokLanternYellowS"]/designationCategory</xpath>
+    <value>
+      <designationCategory>Ferny_Lighting</designationCategory>
+    </value>
+  </Operation>
+
+  <!-- ErokLanternWhiteSE -->
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="ErokLanternWhiteSE"]/designationCategory</xpath>
+    <value>
+      <designationCategory>Ferny_Lighting</designationCategory>
+    </value>
+  </Operation>
+
+  <!-- ErokLanternRedSE -->
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="ErokLanternRedSE"]/designationCategory</xpath>
+    <value>
+      <designationCategory>Ferny_Lighting</designationCategory>
+    </value>
+  </Operation>
+
+  <!-- ErokLanternYellowSE -->
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="ErokLanternYellowSE"]/designationCategory</xpath>
+    <value>
+      <designationCategory>Ferny_Lighting</designationCategory>
+    </value>
+  </Operation>
+</Patch>
