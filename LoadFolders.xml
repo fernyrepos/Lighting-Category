@@ -37,6 +37,7 @@
     <li IfModActive="dev.tobot.vpe.betterautocast">Mods and Shit/Better Autocasting</li>
     <li IfModActive="arquebus.stagzmerfolk">Mods and Shit/Merren</li>
     <li IfModActive="sierra.rf.medievaloverhaul">Mods and Shit/Rimfantasy</li>
-    <li IfModActive="addie.housevanilla">Mods and Shit/Rimfantasy Vanilla</li>
+    <li IfModActive="addie.housevanilla">Mods and Shit/House Van Illa</li>
+    <li IfModActive="botchjob.profaned">Mods and Shit/Profaned</li>
   </v1.5>
 </loadFolders>
