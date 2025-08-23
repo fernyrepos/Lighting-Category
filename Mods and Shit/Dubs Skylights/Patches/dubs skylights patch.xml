@@ -14,25 +14,25 @@
     </Operation>
 
     <!-- Replace Skylights category on buildables -->
-    <Operation Class="PatchOperationReplace">
+    <Operation Class="PatchOperationAdd">
         <xpath>Defs/ThingDef[defName="SkyLightA"]</xpath>
         <value>
             <designationCategory>Ferny_Lighting</designationCategory>
         </value>
     </Operation>
-    <Operation Class="PatchOperationReplace">
+    <Operation Class="PatchOperationAdd">
         <xpath>Defs/ThingDef[defName="SkyLightB"]</xpath>
         <value>
             <designationCategory>Ferny_Lighting</designationCategory>
         </value>
     </Operation>
-    <Operation Class="PatchOperationReplace">
+    <Operation Class="PatchOperationAdd">
         <xpath>Defs/ThingDef[defName="SkyLightC"]</xpath>
         <value>
             <designationCategory>Ferny_Lighting</designationCategory>
         </value>
     </Operation>
-    <Operation Class="PatchOperationReplace">
+    <Operation Class="PatchOperationAdd">
         <xpath>Defs/ThingDef[defName="SkyLightD"]</xpath>
         <value>
             <designationCategory>Ferny_Lighting</designationCategory>
