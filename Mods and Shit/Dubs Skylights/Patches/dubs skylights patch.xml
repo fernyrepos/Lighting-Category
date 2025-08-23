@@ -5,7 +5,7 @@
         <xpath>Defs/DesignationCategoryDef[defName="skylights"]</xpath>
     </Operation>
 
-    <!-- Replace skylight building category -->
+    <!-- Replace Skylights category on buildables -->
     <Operation Class="PatchOperationReplace">
         <xpath>Defs/ThingDef[defName="BasedSkyLight"]</xpath>
         <value>
