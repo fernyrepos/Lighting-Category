@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+    <!-- Remove Skylights category -->
+    <Operation Class="PatchOperationRemove">
+        <xpath>Defs/DesignationCategoryDef[defName="skylights"]</xpath>
+    </Operation>
+
+
+    <!-- Replace cargo hold def categories with progression storage category -->
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="BasedSkyLight"]</xpath>
+        <value>
+            <designationCategory>Ferny_Lighting</designationCategory>
+        </value>
+    </Operation>
+</Patch>
